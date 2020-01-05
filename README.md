@@ -1,8 +1,10 @@
 # Date_Extraction_v1.0.0
 
-This is "Date Extraction".
+This is "Date Extraction".You can determine if the data you enter is a date.
 
-input
+# example
+input 
+The data is in date.txt. If you want to add data, please add a new line.
 ```
 2020/01/05
 2020/1/5
